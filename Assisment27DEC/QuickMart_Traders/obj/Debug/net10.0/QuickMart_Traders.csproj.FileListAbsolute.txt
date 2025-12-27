@@ -1,0 +1,14 @@
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/bin/Debug/net10.0/QuickMart_Traders
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/bin/Debug/net10.0/QuickMart_Traders.deps.json
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/bin/Debug/net10.0/QuickMart_Traders.runtimeconfig.json
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/bin/Debug/net10.0/QuickMart_Traders.dll
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/bin/Debug/net10.0/QuickMart_Traders.pdb
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/obj/Debug/net10.0/QuickMart_Traders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/obj/Debug/net10.0/QuickMart_Traders.AssemblyInfoInputs.cache
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/obj/Debug/net10.0/QuickMart_Traders.AssemblyInfo.cs
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/obj/Debug/net10.0/QuickMart_Traders.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/obj/Debug/net10.0/QuickMart_Traders.dll
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/obj/Debug/net10.0/refint/QuickMart_Traders.dll
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/obj/Debug/net10.0/QuickMart_Traders.pdb
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/obj/Debug/net10.0/QuickMart_Traders.genruntimeconfig.cache
+/Users/avinashkumar/Desktop/Assisment27DEC/QuickMart_Traders/obj/Debug/net10.0/ref/QuickMart_Traders.dll
