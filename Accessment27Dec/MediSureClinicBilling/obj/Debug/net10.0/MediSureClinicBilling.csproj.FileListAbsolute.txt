@@ -1,0 +1,14 @@
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/bin/Debug/net10.0/MediSureClinicBilling
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/bin/Debug/net10.0/MediSureClinicBilling.deps.json
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/bin/Debug/net10.0/MediSureClinicBilling.runtimeconfig.json
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/bin/Debug/net10.0/MediSureClinicBilling.dll
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/bin/Debug/net10.0/MediSureClinicBilling.pdb
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/obj/Debug/net10.0/MediSureClinicBilling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/obj/Debug/net10.0/MediSureClinicBilling.AssemblyInfoInputs.cache
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/obj/Debug/net10.0/MediSureClinicBilling.AssemblyInfo.cs
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/obj/Debug/net10.0/MediSureClinicBilling.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/obj/Debug/net10.0/MediSureClinicBilling.dll
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/obj/Debug/net10.0/refint/MediSureClinicBilling.dll
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/obj/Debug/net10.0/MediSureClinicBilling.pdb
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/obj/Debug/net10.0/MediSureClinicBilling.genruntimeconfig.cache
+/Users/avinashkumar/Desktop/Accessment22Dec/MediSureClinicBilling/obj/Debug/net10.0/ref/MediSureClinicBilling.dll

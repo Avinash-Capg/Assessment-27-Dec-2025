@@ -1,0 +1,14 @@
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/bin/Debug/net10.0/QuickMartApp
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/bin/Debug/net10.0/QuickMartApp.deps.json
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/bin/Debug/net10.0/QuickMartApp.runtimeconfig.json
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/bin/Debug/net10.0/QuickMartApp.dll
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/bin/Debug/net10.0/QuickMartApp.pdb
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/obj/Debug/net10.0/QuickMartApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/obj/Debug/net10.0/QuickMartApp.AssemblyInfoInputs.cache
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/obj/Debug/net10.0/QuickMartApp.AssemblyInfo.cs
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/obj/Debug/net10.0/QuickMartApp.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/obj/Debug/net10.0/QuickMartApp.dll
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/obj/Debug/net10.0/refint/QuickMartApp.dll
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/obj/Debug/net10.0/QuickMartApp.pdb
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/obj/Debug/net10.0/QuickMartApp.genruntimeconfig.cache
+/Users/avinashkumar/Desktop/Accessment22Dec/QuickMartApp/obj/Debug/net10.0/ref/QuickMartApp.dll
